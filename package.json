@@ -1,0 +1,24 @@
+{
+  "name": "npm_test",
+  "version": "1.0.1",
+  "description": "Code School Test Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "louis719",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louis79719/NpmTesting.git"
+  },
+  "keywords": [
+    "npm",
+    "turtorial"
+  ],
+  "bugs": {
+    "url": "https://github.com/louis79719/NpmTesting/issues"
+  },
+  "homepage": "https://github.com/louis79719/NpmTesting#readme",
+  "dependencies": {}
+}
